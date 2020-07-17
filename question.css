@@ -1,0 +1,26 @@
+.pop-up{
+	text-align: center;
+}
+.sub-head{
+	font-size: 3rem;
+	font-family:  Papyrus;
+}
+
+.text{
+	font-size:1.25rem;
+	text-align: left;
+}
+
+.btnholder{
+	position: relative;
+	top:40%;
+}
+
+.qn_info{
+	font-family:Papyrus;
+	color:red;
+	font-weight:900;
+}
+.lobtn{
+	color:blue;
+}
